@@ -15,7 +15,7 @@ ensuite vous aurez dans le dossier "out" un fichier nommé "nitro_id" etc vous l
 vous aurez tout sur lui !
 
 Crédits
-https://youtube.com/c/KASav3348
-https://discord.gg/MxZEGJug5z
+https://www.youtube.com/channel/UC0appKEc3lO1u8rI6vH6htA
+https://discord.gg/buBTZtpfbH
 
 Coded By @blank#0760 ;)
