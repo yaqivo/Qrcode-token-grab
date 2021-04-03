@@ -17,5 +17,3 @@ vous aurez tout sur lui !
 Crédits
 https://www.youtube.com/channel/UC0appKEc3lO1u8rI6vH6htA
 https://discord.gg/buBTZtpfbH
-
-Coded By @blank#0760 ;)
