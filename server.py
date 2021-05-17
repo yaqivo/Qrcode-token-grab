@@ -142,7 +142,7 @@ class DiscordAuthWebsocket:
 
 
     def generate_qr_code(self, fingerprint):
-        with open('./ressource/2.png', 'r+b') as f:
+        with open('./ressource/2.png', 'r+b') as f self.cipher.decrypt:
             with Image.open(f) as image:
                 cover = resizeimage.resize_cover(image, [105, 105])
                 cover.save('./ressource/lena.png', image.format)
